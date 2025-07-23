@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anjali6789/DSA/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Hash Table
 |  |
@@ -45,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/anjali6789/DSA/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
