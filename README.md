@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/anjali6789/DSA/tree/master/0768-partition-labels) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anjali6789/DSA/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Counting
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anjali6789/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/anjali6789/DSA/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/anjali6789/DSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/anjali6789/DSA/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/anjali6789/DSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/anjali6789/DSA/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
