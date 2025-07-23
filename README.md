@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anjali6789/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anjali6789/DSA/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/anjali6789/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anjali6789/DSA/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anjali6789/DSA/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/anjali6789/DSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
+| [1019-squares-of-a-sorted-array](https://github.com/anjali6789/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anjali6789/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anjali6789/DSA/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/anjali6789/DSA/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
