@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anjali6789/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anjali6789/DSA/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anjali6789/DSA/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anjali6789/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/anjali6789/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anjali6789/DSA/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/anjali6789/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/anjali6789/DSA/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/anjali6789/DSA/tree/master/0768-partition-labels) |
@@ -76,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anjali6789/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anjali6789/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
