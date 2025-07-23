@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anjali6789/DSA/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/anjali6789/DSA/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -34,9 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/anjali6789/DSA/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/anjali6789/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
