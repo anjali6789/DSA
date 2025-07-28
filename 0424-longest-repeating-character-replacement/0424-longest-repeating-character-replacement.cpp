@@ -15,10 +15,8 @@ public:
             while(j-i+1-maxfrq>k){
                 maxFreq[s[i]-'A']--;
                 i++;
-                maxfrq=0;
-                for(int i=0;i<26;i++){
-                    maxfrq=max(maxfrq,maxFreq[i]);
-                }
+                
+                
             }// if it is under k then this is the ans now increment j
                 ans=max(ans,j-i+1);
                 j++;
