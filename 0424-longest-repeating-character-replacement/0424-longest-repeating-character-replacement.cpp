@@ -15,7 +15,7 @@ public:
             while(j-i+1-maxfrq>k){
                 maxFreq[s[i]-'A']--;
                 i++;
-                
+            //we dont need to minimise the maxFreq here because as we are decrementing the window size the ans would never be greater than previous    
                 
             }// if it is under k then this is the ans now increment j
                 ans=max(ans,j-i+1);
