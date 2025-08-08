@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/anjali6789/DSA/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/anjali6789/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/anjali6789/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anjali6789/DSA/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjali6789/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/anjali6789/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anjali6789/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anjali6789/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anjali6789/DSA/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/anjali6789/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/anjali6789/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
