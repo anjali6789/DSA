@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/anjali6789/DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/anjali6789/DSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anjali6789/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/anjali6789/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anjali6789/DSA/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/anjali6789/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anjali6789/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
