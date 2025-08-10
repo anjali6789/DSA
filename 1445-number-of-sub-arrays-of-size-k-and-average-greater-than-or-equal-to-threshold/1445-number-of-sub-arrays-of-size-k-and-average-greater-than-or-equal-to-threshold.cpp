@@ -14,10 +14,10 @@ public:
             ans++;
         }
         while(j+1<arr.size()){
-            sum-=arr[i];
+            sum = sum - arr[i]+arr[j+1];
             i++;
             j++;
-            sum+=arr[j];
+            
             if(sum/k>=threshold){
                 ans++;
             }
