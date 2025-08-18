@@ -4,6 +4,9 @@ public:
         if(x==0) return true;
         if(x<0||x%10==0) return false; // negatives cant be palindrome and numbers like 10 1000 cant be either
         int reversed=0;
+        //creating reverse as reverse and reducing x also 
+        // for even x==reversed but for odd we will ignore middle
+        //digit by doing /10
         while(x>reversed){
             reversed=reversed*10+(x%10);
             x=x/10;
