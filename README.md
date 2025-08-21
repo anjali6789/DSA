@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anjali6789/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/anjali6789/DSA/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anjali6789/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0735-asteroid-collision](https://github.com/anjali6789/DSA/tree/master/0735-asteroid-collision) |
 | [1019-squares-of-a-sorted-array](https://github.com/anjali6789/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/anjali6789/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anjali6789/DSA/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anjali6789/DSA/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/anjali6789/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
 ## Recursion
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/anjali6789/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/anjali6789/DSA/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
